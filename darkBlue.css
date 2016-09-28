@@ -1,0 +1,32 @@
+﻿body {background-color:steelblue;
+      font-family:Arial
+    border-style:dotted;
+    border-color:darkgrey;
+      
+}
+
+body.dotted{
+    border-style:dotted;
+    border-color:darkgrey;
+}
+h1{
+    font-size:35px;
+}
+p{
+    text-align:center;
+    font-size: 17px;
+}
+ul{
+    text-align:center;
+    font-size:17px;   
+}
+
+<p class{
+
+    font-size:12px;
+
+}
+
+/*li::first-letter{
+    font-size:30px;
+}li*/
