@@ -1,0 +1,27 @@
+﻿body {
+    background-color:deepskyblue;
+    margin:auto
+}
+
+li::first-letter {
+    font-size: 30px;
+
+}
+
+p{
+    text-align:center;
+    font-size: 17px;
+    font-family:Arial;
+}
+
+ul{
+    text-align:center;
+    font-size:17px;   
+    list-style-type:none;
+    font-family:Arial;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+}
+

@@ -5,10 +5,6 @@
       
 }
 
-body.dotted{
-    border-style:dotted;
-    border-color:darkgrey;
-}
 h1{
     font-size:35px;
 }

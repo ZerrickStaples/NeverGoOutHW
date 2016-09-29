@@ -1,0 +1,39 @@
+﻿html { 
+    background-color: burlywood; 
+    margin: 100px
+
+}
+body { 
+    
+    background-color:whitesmoke;
+    margin:100px;
+    padding:25px;
+}
+h1{
+    font-size:50px;
+    border-top:5px dotted;
+    border-bottom:5px dotted;
+    border-left:5px dotted;
+    border-right:5px dotted;
+}
+p{
+    text-align:center;
+    font-size: 14px;
+    font-family:Calibri;
+}
+
+ ul{
+    
+    list-style:none;
+    text-align:center;
+    font-family:Calibri;
+    font-style:italic;
+    font-size:18px;
+}
+li::first-letter {
+    font-size: 30px;
+
+}
+div{
+    border:5px dotted;
+}
